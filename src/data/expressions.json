@@ -1,0 +1,438 @@
+[
+  {
+    "slug": "a-be-a-me-ben-mvete-cen-cuve-li",
+    "medumba": "à bə α̂ mə̌ bɛ̂n mvə̌tə cə̂n cûvə̀ lî",
+    "french": "c'est moi qui ai fabriqué ces objets d'art",
+    "hasAudio": false
+  },
+  {
+    "slug": "a-be-a-nduke",
+    "medumba": "À bə α̂ ndʉ̂kə?",
+    "french": "Comment ça va ?",
+    "hasAudio": false
+  },
+  {
+    "slug": "a-cua-ncu-u",
+    "medumba": "À cʉα̂ ncù u !",
+    "french": "bonne appétit !",
+    "hasAudio": false
+  },
+  {
+    "slug": "a-dum-ncu-u",
+    "medumba": "A dʉ̌m ncù ù",
+    "french": "Bonne appétit",
+    "hasAudio": false
+  },
+  {
+    "slug": "a-fi-tse",
+    "medumba": "A fi tsə",
+    "french": "ça va bien",
+    "hasAudio": false
+  },
+  {
+    "slug": "a-ka-men",
+    "medumba": "A kǎ mɛn",
+    "french": "il a choisi l'enfant",
+    "hasAudio": false
+  },
+  {
+    "slug": "a-ka-men",
+    "medumba": "Â kâ mɛn",
+    "french": "c'est l'assiette de l'enfant",
+    "hasAudio": false
+  },
+  {
+    "slug": "a-nduke",
+    "medumba": "Â ndʉ̂kə?",
+    "french": "comment ça va ?",
+    "hasAudio": false
+  },
+  {
+    "slug": "bi-bo-ka",
+    "medumba": "Bi bô ka",
+    "french": "Le couteau et l'assiette",
+    "hasAudio": false
+  },
+  {
+    "slug": "bin-se-mebwo",
+    "medumba": "Bin sə̂' mə̀bwɔ !",
+    "french": "Bienvenues à vous !",
+    "hasAudio": false,
+    "context": "salutation"
+  },
+  {
+    "slug": "binyi",
+    "medumba": "Binyi",
+    "french": "Lui et toi",
+    "hasAudio": false
+  },
+  {
+    "slug": "bo-ghu-ba",
+    "medumba": "Bo ghʉ̌ bà'",
+    "french": "Ils ont une maison",
+    "hasAudio": false
+  },
+  {
+    "slug": "bum-ngab",
+    "medumba": "Bǔm ngab",
+    "french": "L’œuf de la poule",
+    "hasAudio": false
+  },
+  {
+    "slug": "bag-labte",
+    "medumba": "Bα̌g lὰbtə̌",
+    "french": "Nous te remercions",
+    "hasAudio": false,
+    "context": "remerciement"
+  },
+  {
+    "slug": "bagyi",
+    "medumba": "Bαgyi",
+    "french": "Lui et moi",
+    "hasAudio": false
+  },
+  {
+    "slug": "ba-nku-nzwe-tse-o-fe-ntang-na-kebte",
+    "medumba": "bὰ nkʉ̌ nzwə tsə̀ ò fə̀ ntα̂ŋ nα kəbtə̀",
+    "french": "les cordes à sécher que tu avais attachées se sont rompues",
+    "hasAudio": false
+  },
+  {
+    "slug": "cen-benntun-ni-ke-mvete-a-cu-ntum-sen-wa-li",
+    "medumba": "cə̂n bə̀nntʉ̀n ni kə mvə̌tə α̂ cu ntʉ̂m sə̂n wa lî",
+    "french": "ces gens fabriquent des objets dans ce rayon",
+    "hasAudio": false
+  },
+  {
+    "slug": "co-be-a-nduke",
+    "medumba": "Cɔ̀ bə α̂ ndʉ̂kə?",
+    "french": "comment ça va ?",
+    "hasAudio": false
+  },
+  {
+    "slug": "co-fi-tse",
+    "medumba": "Cɔ̌ fi tsə",
+    "french": "ça va bien",
+    "hasAudio": false
+  },
+  {
+    "slug": "cam-ngwag",
+    "medumba": "Cαm ngwagǝ",
+    "french": "Condéleances",
+    "hasAudio": false
+  },
+  {
+    "slug": "ka-keb-tu-la",
+    "medumba": "kα̂ kəb tʉ lα",
+    "french": "ne coupe pas cet arbre",
+    "hasAudio": false
+  },
+  {
+    "slug": "ka-ne-kebte-mbwe-am",
+    "medumba": "kα̂ nə kəbtə mbwə̀ αm",
+    "french": "ne fais plus des allers-retours devant moi",
+    "hasAudio": false
+  },
+  {
+    "slug": "len-se-be-a",
+    "medumba": "Lɛ̂n sə bə α",
+    "french": "Il s'appelle",
+    "hasAudio": false,
+    "context": "présentation"
+  },
+  {
+    "slug": "len-se-be-a-we",
+    "medumba": "Lɛ̂n sə bə α wə ?",
+    "french": "Quel est son prénom?",
+    "hasAudio": false,
+    "context": "présentation"
+  },
+  {
+    "slug": "len-su-be-a-we",
+    "medumba": "Lɛ̂n su bə α wə ?",
+    "french": "Quel est ton nom ?",
+    "hasAudio": false,
+    "context": "présentation"
+  },
+  {
+    "slug": "len-sam-be-a",
+    "medumba": "Lɛ̂n sαm bə α",
+    "french": "Je  m'appelle",
+    "hasAudio": false,
+    "context": "présentation"
+  },
+  {
+    "slug": "mben-nyid-la-a",
+    "medumba": "mbɛn nyîd lα ὰ?",
+    "french": "Condoléances",
+    "hasAudio": false
+  },
+  {
+    "slug": "mbum-ngab",
+    "medumba": "Mbǔm ngab",
+    "french": "Les œufs de la poule",
+    "hasAudio": false
+  },
+  {
+    "slug": "mbwe-cam",
+    "medumba": "Mbwə̂ cαm",
+    "french": "Mes chèvres",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-ko-o",
+    "medumba": "me kɔ o",
+    "french": "je t'aime",
+    "hasAudio": false,
+    "context": "amour"
+  },
+  {
+    "slug": "me-bagwu",
+    "medumba": "Mə̀ bαgwʉ̀",
+    "french": "Toi et moi",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-fa-fa",
+    "medumba": "Mə fǎ' fà'",
+    "french": "J'ai travaillé",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-fe-a-ngwani",
+    "medumba": "Mə̀ fə α̂ ŋwà'nì",
+    "french": "Je reviens de l'école",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-ghu-bi",
+    "medumba": "Mə ghʉ̌ bi",
+    "french": "J'ai un couteau",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-ghu-bam",
+    "medumba": "Mə ghʉ̌ bὰm",
+    "french": "J'ai un sac",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-ghu-mbwe",
+    "medumba": "Mə ghʉ̌ mbwə",
+    "french": "J'ai une chèvre",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-ghu-yatu",
+    "medumba": "Mə ghʉ̌ yâtu",
+    "french": "J'ai les maux de tête",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-ke-be-nsi",
+    "medumba": "Mə̀ kə̂' bə nsi",
+    "french": "Je ne suis pas là",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-labte",
+    "medumba": "Mə lὰbtə̌",
+    "french": "je te remercie",
+    "hasAudio": false,
+    "context": "remerciement"
+  },
+  {
+    "slug": "me-nen-ngwani",
+    "medumba": "Mə nɛ̌n ŋwà'nì",
+    "french": "Je suis allé à l'école",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-nen-a-ngwani",
+    "medumba": "Mə̀ nɛ̀n α̂ ŋwà'nì",
+    "french": "Je vais à l'école",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-se-ngelang",
+    "medumba": "Mə sə̀' ngə̀laŋ",
+    "french": "Je suis arrivé à l'heure",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-sen",
+    "medumba": "Mə sɛn",
+    "french": "Je suis noir",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-sen",
+    "medumba": "Mə sɛn",
+    "french": "Je suis en retard",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-yen-swenyu-wul-am-ved",
+    "medumba": "mə yən swə̂nyu, wul α̌m vɛ̂d",
+    "french": "j'ai vu la vipère et mon corps a tremblé",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-yog-ne-fe",
+    "medumba": "Mə yǒg nə fə",
+    "french": "Je viens de rentrer",
+    "hasAudio": false
+  },
+  {
+    "slug": "me-yog-ne-see",
+    "medumba": "Mə yǒg nə sə̀'ə",
+    "french": "Je viens d'arriver",
+    "hasAudio": false
+  },
+  {
+    "slug": "men-bo-ta-ab",
+    "medumba": "Mɛn bô tα αb",
+    "french": "L'enfant et son père",
+    "hasAudio": false
+  },
+  {
+    "slug": "men-mfen",
+    "medumba": "Mɛn mfə̀n",
+    "french": "l'enfant chef",
+    "hasAudio": false
+  },
+  {
+    "slug": "men-mfen",
+    "medumba": "Mɛ̂n mfə̀n",
+    "french": "l'enfant du chef",
+    "hasAudio": false
+  },
+  {
+    "slug": "men-ze-me-yen-na-cwed-ngone",
+    "medumba": "mɛn zə mə̀ yə̂n nα cwɛ̌d ngônə",
+    "french": "l'enfant que j'ai vu est malade",
+    "hasAudio": false
+  },
+  {
+    "slug": "n-nen",
+    "medumba": "Nǝ̀ nɛ̀nǝ̀",
+    "french": "partir",
+    "hasAudio": false
+  },
+  {
+    "slug": "n-nen-ngwani",
+    "medumba": "Nǝ̀ nɛ̌n ŋwà'ni",
+    "french": "aller à l'école",
+    "hasAudio": false
+  },
+  {
+    "slug": "ngu-nsw-mbwo",
+    "medumba": "Ngù' nswǝ mǝ̀bwɔ",
+    "french": "Bonne année",
+    "hasAudio": false
+  },
+  {
+    "slug": "nkwuban-ni-kebte",
+    "medumba": "nkwʉ̌bαn ni kəbtə",
+    "french": "ce nkui a perdu son élasticité",
+    "hasAudio": false
+  },
+  {
+    "slug": "nsi-fa-bon-me-yame",
+    "medumba": "Nsi fα bôn mə̌ yαmə.",
+    "french": "Dieu m'a donné beaucoup d'en­fants.",
+    "hasAudio": false,
+    "context": "accouchement"
+  },
+  {
+    "slug": "nsi-fa-bonke-me-yame",
+    "medumba": "Nsi fα bɔnkə' mə̌ yαmə.",
+    "french": "Dieu m'a donné beaucoup d'en­fants.",
+    "hasAudio": false,
+    "context": "accouchement"
+  },
+  {
+    "slug": "nsi-fa-bwong-bon-me",
+    "medumba": "Nsi fα bwǒŋ bôn mə̀.",
+    "french": "Dieu m'a donné beaucoup d'en­fants.",
+    "hasAudio": false,
+    "context": "accouchement"
+  },
+  {
+    "slug": "numi-bo-mbwe",
+    "medumba": "Nùmi bô mbwə",
+    "french": "Nùmi avec la chèvre",
+    "hasAudio": false
+  },
+  {
+    "slug": "nze-bolen-ni-ya-vene",
+    "medumba": "nzə̀' bǒ'lɛn ni yα̌ vɛnə",
+    "french": "les graines de cette courge sont déjà arrivées à maturité",
+    "hasAudio": false
+  },
+  {
+    "slug": "o-fe-a-ya",
+    "medumba": "Ò fə α̂ yα ?",
+    "french": "Tu viens d'où?",
+    "hasAudio": false
+  },
+  {
+    "slug": "o-ndo-ncob-o-kebte",
+    "medumba": "o ndô' ncob, o kəbtə̀",
+    "french": "si tu prends la parole, soit bref",
+    "hasAudio": false
+  },
+  {
+    "slug": "o-nen-a-ya",
+    "medumba": "Ò nɛ̀n α̂ yα ?",
+    "french": "Tu vas où?",
+    "hasAudio": false
+  },
+  {
+    "slug": "o-yog-a",
+    "medumba": "O yog ὰ ?",
+    "french": "bonsoir",
+    "hasAudio": false,
+    "context": "salutation"
+  },
+  {
+    "slug": "o-zi-ndo-a",
+    "medumba": "O zi ndo α?",
+    "french": "Bonjour",
+    "hasAudio": false,
+    "context": "salutation"
+  },
+  {
+    "slug": "o-zi-a",
+    "medumba": "O zi ὰ?",
+    "french": "Bonjour",
+    "hasAudio": false,
+    "context": "salutation"
+  },
+  {
+    "slug": "se-mebwo",
+    "medumba": "Sə̌' mə̀bwɔ",
+    "french": "Bienvenu",
+    "hasAudio": false,
+    "context": "salutation"
+  },
+  {
+    "slug": "tu-am-ya-metsili",
+    "medumba": "Tu αm ya mətsìli",
+    "french": "Ma tête me fait un peu mal",
+    "hasAudio": false
+  },
+  {
+    "slug": "tun-bu-u-mfel-am",
+    "medumba": "Tʉ̌n bu u mfɛl ὰm",
+    "french": "du courage !",
+    "hasAudio": false
+  },
+  {
+    "slug": "zi-mebwo",
+    "medumba": "Zi mə̀bwɔ",
+    "french": "bonne nuit",
+    "hasAudio": false,
+    "context": "salutation"
+  }
+]

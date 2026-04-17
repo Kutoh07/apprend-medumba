@@ -1,0 +1,290 @@
+[
+  {
+    "letter": "a",
+    "type": "voyelle",
+    "example": {
+      "medumba": "bà",
+      "french": "vélo"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "ɑ",
+    "type": "voyelle",
+    "example": {
+      "medumba": "bɑ",
+      "french": "folie"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "ə",
+    "type": "voyelle",
+    "example": {
+      "medumba": "bə",
+      "french": "être"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "e",
+    "type": "voyelle",
+    "example": {
+      "medumba": "le'njè",
+      "french": "jour"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "ɛ",
+    "type": "voyelle",
+    "example": {
+      "medumba": "têd",
+      "french": "milieu"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "i",
+    "type": "voyelle",
+    "example": {
+      "medumba": "bì",
+      "french": "couteau"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "o",
+    "type": "voyelle",
+    "example": {
+      "medumba": "bo",
+      "french": "ils, elles"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "ɔ",
+    "type": "voyelle",
+    "example": {
+      "medumba": "tɔ",
+      "french": "vote"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "u",
+    "type": "voyelle",
+    "example": {
+      "medumba": "tù",
+      "french": "tête"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "ʉ",
+    "type": "voyelle",
+    "example": {
+      "medumba": "vʉ",
+      "french": "mort"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "b",
+    "type": "consonne",
+    "example": {
+      "medumba": "bô",
+      "french": "avec, plus"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "c",
+    "type": "consonne",
+    "example": {
+      "medumba": "cɔ",
+      "french": "histoire"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "d",
+    "type": "consonne",
+    "example": {
+      "medumba": "dùm",
+      "french": "saison sèche"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "f",
+    "type": "consonne",
+    "example": {
+      "medumba": "fà",
+      "french": "accident"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "gh",
+    "type": "consonne",
+    "example": {
+      "medumba": "ghù",
+      "french": "fiançailles"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "h",
+    "type": "consonne",
+    "example": {
+      "medumba": "Hòg",
+      "french": "nom d'un village"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "j",
+    "type": "consonne",
+    "example": {
+      "medumba": "Jè",
+      "french": "nom d'un village"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "k",
+    "type": "consonne",
+    "example": {
+      "medumba": "kènà",
+      "french": "arachide"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "l",
+    "type": "consonne",
+    "example": {
+      "medumba": "lò",
+      "french": "paresse"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "m",
+    "type": "consonne",
+    "example": {
+      "medumba": "men",
+      "french": "l'enfant"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "n",
+    "type": "consonne",
+    "example": {
+      "medumba": "nèndò",
+      "french": "herbe"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "ŋ",
+    "type": "consonne",
+    "example": {
+      "medumba": "ŋcbə",
+      "french": "coller"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "ny",
+    "type": "consonne",
+    "example": {
+      "medumba": "nyu",
+      "french": "serpent"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "s",
+    "type": "consonne",
+    "example": {
+      "medumba": "sè'e",
+      "french": "viens"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "sh",
+    "type": "consonne",
+    "example": {
+      "medumba": "shune",
+      "french": "amitié"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "t",
+    "type": "consonne",
+    "example": {
+      "medumba": "tɑ",
+      "french": "père"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "ts",
+    "type": "consonne",
+    "example": {
+      "medumba": "tsetòn",
+      "french": "grillon"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "v",
+    "type": "consonne",
+    "example": {
+      "medumba": "vʉ",
+      "french": "mort"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "w",
+    "type": "consonne",
+    "example": {
+      "medumba": "wud",
+      "french": "corps humain"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "y",
+    "type": "consonne",
+    "example": {
+      "medumba": "yu",
+      "french": "pour toi"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "z",
+    "type": "consonne",
+    "example": {
+      "medumba": "zi",
+      "french": "dorsière"
+    },
+    "hasAudio": false
+  },
+  {
+    "letter": "'",
+    "type": "consonne",
+    "example": {
+      "medumba": "cua'a",
+      "french": "coup de glotte"
+    },
+    "hasAudio": false
+  }
+]
