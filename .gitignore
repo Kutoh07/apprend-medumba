@@ -33,3 +33,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# temp files
+.tmp_patch.json
+
+# claude code local settings (personal, not team-wide)
+.claude/settings.local.json
+.claude/worktrees/
