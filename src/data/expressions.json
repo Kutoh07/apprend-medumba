@@ -7,19 +7,21 @@
   },
   {
     "slug": "a-be-a-nduke",
-    "medumba": "À bə α̂ ndʉ̂kə?",
+    "medumba": "À bə α̂ ndʉ̂kə?",
     "french": "Comment ça va ?",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/A-be-a-nduke.mp3",
+    "context": "salutation"
   },
   {
     "slug": "a-cua-ncu-u",
-    "medumba": "À cʉα̂ ncù u !",
+    "medumba": "À cʉα̂ ncù u !",
     "french": "bonne appétit !",
     "hasAudio": false
   },
   {
     "slug": "a-dum-ncu-u",
-    "medumba": "A dʉ̌m ncù ù",
+    "medumba": "A dʉ̌m ncù ù",
     "french": "Bonne appétit",
     "hasAudio": false
   },
@@ -27,29 +29,33 @@
     "slug": "a-fi-tse",
     "medumba": "A fi tsə",
     "french": "ça va bien",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/A-fi-tse.mp3",
+    "context": "salutation"
   },
   {
     "slug": "a-ka-men",
-    "medumba": "A kǎ mɛn",
+    "medumba": "A kǎ mɛn",
     "french": "il a choisi l'enfant",
     "hasAudio": false
   },
   {
     "slug": "a-ka-men",
-    "medumba": "Â kâ mɛn",
+    "medumba": "Â kâ mɛn",
     "french": "c'est l'assiette de l'enfant",
     "hasAudio": false
   },
   {
     "slug": "a-nduke",
-    "medumba": "Â ndʉ̂kə?",
+    "medumba": "Â ndʉ̂kə?",
     "french": "comment ça va ?",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/A-nduke.mp3",
+    "context": "salutation"
   },
   {
     "slug": "bi-bo-ka",
-    "medumba": "Bi bô ka",
+    "medumba": "Bi bô ka",
     "french": "Le couteau et l'assiette",
     "hasAudio": false
   },
@@ -57,7 +63,8 @@
     "slug": "bin-se-mebwo",
     "medumba": "Bin sə̂' mə̀bwɔ !",
     "french": "Bienvenues à vous !",
-    "hasAudio": false,
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Bin-se-mebwo.mp3",
     "context": "salutation"
   },
   {
@@ -68,19 +75,20 @@
   },
   {
     "slug": "bo-ghu-ba",
-    "medumba": "Bo ghʉ̌ bà'",
+    "medumba": "Bo ghʉ̌ bà'",
     "french": "Ils ont une maison",
     "hasAudio": false
   },
   {
     "slug": "bum-ngab",
-    "medumba": "Bǔm ngab",
-    "french": "L’œuf de la poule",
-    "hasAudio": false
+    "medumba": "Bǔm ngab",
+    "french": "L'œuf de la poule",
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Bum-ngab.mp3"
   },
   {
     "slug": "bag-labte",
-    "medumba": "Bα̌g lὰbtə̌",
+    "medumba": "Bα̌g lὰbtə̌",
     "french": "Nous te remercions",
     "hasAudio": false,
     "context": "remerciement"
@@ -107,13 +115,15 @@
     "slug": "co-be-a-nduke",
     "medumba": "Cɔ̀ bə α̂ ndʉ̂kə?",
     "french": "comment ça va ?",
-    "hasAudio": false
+    "hasAudio": false,
+    "context": "salutation"
   },
   {
     "slug": "co-fi-tse",
     "medumba": "Cɔ̌ fi tsə",
     "french": "ça va bien",
-    "hasAudio": false
+    "hasAudio": false,
+    "context": "salutation"
   },
   {
     "slug": "cam-ngwag",
@@ -137,39 +147,43 @@
     "slug": "len-se-be-a",
     "medumba": "Lɛ̂n sə bə α",
     "french": "Il s'appelle",
-    "hasAudio": false,
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Len-se-be-a.mp3",
     "context": "présentation"
   },
   {
     "slug": "len-se-be-a-we",
     "medumba": "Lɛ̂n sə bə α wə ?",
     "french": "Quel est son prénom?",
-    "hasAudio": false,
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Len-se-be-a-we.mp3",
     "context": "présentation"
   },
   {
     "slug": "len-su-be-a-we",
     "medumba": "Lɛ̂n su bə α wə ?",
     "french": "Quel est ton nom ?",
-    "hasAudio": false,
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Len-su-be-a-we.mp3",
     "context": "présentation"
   },
   {
     "slug": "len-sam-be-a",
     "medumba": "Lɛ̂n sαm bə α",
     "french": "Je  m'appelle",
-    "hasAudio": false,
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Len-sam-be-a.mp3",
     "context": "présentation"
   },
   {
     "slug": "mben-nyid-la-a",
-    "medumba": "mbɛn nyîd lα ὰ?",
+    "medumba": "mbɛn nyîd lα ὰ?",
     "french": "Condoléances",
     "hasAudio": false
   },
   {
     "slug": "mbum-ngab",
-    "medumba": "Mbǔm ngab",
+    "medumba": "Mbǔm ngab",
     "french": "Les œufs de la poule",
     "hasAudio": false
   },
@@ -182,8 +196,9 @@
   {
     "slug": "me-ko-o",
     "medumba": "me kɔ o",
-    "french": "je t'aime",
-    "hasAudio": false,
+    "french": "Je t'aime",
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/me-ko-o.mp3",
     "context": "amour"
   },
   {
@@ -194,15 +209,16 @@
   },
   {
     "slug": "me-fa-fa",
-    "medumba": "Mə fǎ' fà'",
+    "medumba": "Mə fǎ' fà'",
     "french": "J'ai travaillé",
     "hasAudio": false
   },
   {
     "slug": "me-fe-a-ngwani",
-    "medumba": "Mə̀ fə α̂ ŋwà'nì",
+    "medumba": "Mə̀ fə α̂ ŋwà'nì",
     "french": "Je reviens de l'école",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Me-fe-a-nwani.mp3"
   },
   {
     "slug": "me-ghu-bi",
@@ -212,7 +228,7 @@
   },
   {
     "slug": "me-ghu-bam",
-    "medumba": "Mə ghʉ̌ bὰm",
+    "medumba": "Mə ghʉ̌ bὰm",
     "french": "J'ai un sac",
     "hasAudio": false
   },
@@ -224,7 +240,7 @@
   },
   {
     "slug": "me-ghu-yatu",
-    "medumba": "Mə ghʉ̌ yâtu",
+    "medumba": "Mə ghʉ̌ yâtu",
     "french": "J'ai les maux de tête",
     "hasAudio": false
   },
@@ -236,20 +252,22 @@
   },
   {
     "slug": "me-labte",
-    "medumba": "Mə lὰbtə̌",
+    "medumba": "Mə lὰbtə̌",
     "french": "je te remercie",
-    "hasAudio": false,
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Me-labte.mp3",
     "context": "remerciement"
   },
   {
     "slug": "me-nen-ngwani",
-    "medumba": "Mə nɛ̌n ŋwà'nì",
+    "medumba": "Mə nɛ̌n ŋwà'nì",
     "french": "Je suis allé à l'école",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Me-nen-nwani.mp3"
   },
   {
     "slug": "me-nen-a-ngwani",
-    "medumba": "Mə̀ nɛ̀n α̂ ŋwà'nì",
+    "medumba": "Mə̀ nɛ̀n α̂ ŋwà'nì",
     "french": "Je vais à l'école",
     "hasAudio": false
   },
@@ -279,21 +297,23 @@
   },
   {
     "slug": "me-yog-ne-fe",
-    "medumba": "Mə yǒg nə fə",
+    "medumba": "Mə yǒg nə fə",
     "french": "Je viens de rentrer",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Me-yog-ne-fe.mp3"
   },
   {
     "slug": "me-yog-ne-see",
-    "medumba": "Mə yǒg nə sə̀'ə",
+    "medumba": "Mə yǒg nə sə̀'ə",
     "french": "Je viens d'arriver",
     "hasAudio": false
   },
   {
     "slug": "men-bo-ta-ab",
-    "medumba": "Mɛn bô tα αb",
+    "medumba": "Mɛn bô tα αb",
     "french": "L'enfant et son père",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Men-bo-ta-ab.mp3"
   },
   {
     "slug": "men-mfen",
@@ -317,7 +337,8 @@
     "slug": "n-nen",
     "medumba": "Nǝ̀ nɛ̀nǝ̀",
     "french": "partir",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Ne-nene.mp3"
   },
   {
     "slug": "n-nen-ngwani",
@@ -327,7 +348,7 @@
   },
   {
     "slug": "ngu-nsw-mbwo",
-    "medumba": "Ngù' nswǝ mǝ̀bwɔ",
+    "medumba": "Ngù' nswǝ mǝ̀bwɔ",
     "french": "Bonne année",
     "hasAudio": false
   },
@@ -339,7 +360,7 @@
   },
   {
     "slug": "nsi-fa-bon-me-yame",
-    "medumba": "Nsi fα bôn mə̌ yαmə.",
+    "medumba": "Nsi fα bôn mə̌ yαmə.",
     "french": "Dieu m'a donné beaucoup d'en­fants.",
     "hasAudio": false,
     "context": "accouchement"
@@ -353,15 +374,15 @@
   },
   {
     "slug": "nsi-fa-bwong-bon-me",
-    "medumba": "Nsi fα bwǒŋ bôn mə̀.",
+    "medumba": "Nsi fα bwǒŋ bôn mə̀.",
     "french": "Dieu m'a donné beaucoup d'en­fants.",
     "hasAudio": false,
     "context": "accouchement"
   },
   {
     "slug": "numi-bo-mbwe",
-    "medumba": "Nùmi bô mbwə",
-    "french": "Nùmi avec la chèvre",
+    "medumba": "Nùmi bô mbwə",
+    "french": "Nùmi avec la chèvre",
     "hasAudio": false
   },
   {
@@ -372,8 +393,8 @@
   },
   {
     "slug": "o-fe-a-ya",
-    "medumba": "Ò fə α̂ yα ?",
-    "french": "Tu viens d'où?",
+    "medumba": "Ò fə α̂ yα ?",
+    "french": "Tu viens d'où?",
     "hasAudio": false
   },
   {
@@ -384,13 +405,13 @@
   },
   {
     "slug": "o-nen-a-ya",
-    "medumba": "Ò nɛ̀n α̂ yα ?",
-    "french": "Tu vas où?",
+    "medumba": "Ò nɛ̀n α̂ yα ?",
+    "french": "Tu vas où?",
     "hasAudio": false
   },
   {
     "slug": "o-yog-a",
-    "medumba": "O yog ὰ ?",
+    "medumba": "O yog ὰ ?",
     "french": "bonsoir",
     "hasAudio": false,
     "context": "salutation"
@@ -398,41 +419,44 @@
   {
     "slug": "o-zi-ndo-a",
     "medumba": "O zi ndo α?",
-    "french": "Bonjour",
-    "hasAudio": false,
+    "french": "Tu vas bien ?",
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/O-zi-ndo-a.mp3",
     "context": "salutation"
   },
   {
     "slug": "o-zi-a",
-    "medumba": "O zi ὰ?",
-    "french": "Bonjour",
+    "medumba": "O zi ὰ?",
+    "french": "Bonjour / Tu as bien dormi ?",
     "hasAudio": false,
     "context": "salutation"
   },
   {
     "slug": "se-mebwo",
     "medumba": "Sə̌' mə̀bwɔ",
-    "french": "Bienvenu",
-    "hasAudio": false,
+    "french": "Bienvenu(e) !",
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Se-mebwo.mp3",
     "context": "salutation"
   },
   {
     "slug": "tu-am-ya-metsili",
-    "medumba": "Tu αm ya mətsìli",
+    "medumba": "Tu αm ya mətsìli",
     "french": "Ma tête me fait un peu mal",
     "hasAudio": false
   },
   {
     "slug": "tun-bu-u-mfel-am",
-    "medumba": "Tʉ̌n bu u mfɛl ὰm",
+    "medumba": "Tʉ̌n bu u mfɛl ὰm",
     "french": "du courage !",
     "hasAudio": false
   },
   {
     "slug": "zi-mebwo",
     "medumba": "Zi mə̀bwɔ",
-    "french": "bonne nuit",
-    "hasAudio": false,
+    "french": "Bonne nuit",
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Zi-mebwo.mp3",
     "context": "salutation"
   }
 ]
