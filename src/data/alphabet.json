@@ -6,7 +6,8 @@
       "medumba": "bà",
       "french": "vélo"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/a.mp3"
   },
   {
     "letter": "ɑ",
@@ -15,7 +16,8 @@
       "medumba": "bɑ",
       "french": "folie"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/ɑ.mp3"
   },
   {
     "letter": "ə",
@@ -24,7 +26,8 @@
       "medumba": "bə",
       "french": "être"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/ə.mp3"
   },
   {
     "letter": "e",
@@ -33,7 +36,8 @@
       "medumba": "le'njè",
       "french": "jour"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/e.mp3"
   },
   {
     "letter": "ɛ",
@@ -42,7 +46,8 @@
       "medumba": "têd",
       "french": "milieu"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/ɛ.mp3"
   },
   {
     "letter": "i",
@@ -51,7 +56,8 @@
       "medumba": "bì",
       "french": "couteau"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/i.mp3"
   },
   {
     "letter": "o",
@@ -60,7 +66,8 @@
       "medumba": "bo",
       "french": "ils, elles"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/o.mp3"
   },
   {
     "letter": "ɔ",
@@ -69,7 +76,8 @@
       "medumba": "tɔ",
       "french": "vote"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/ɔ.mp3"
   },
   {
     "letter": "u",
@@ -78,7 +86,8 @@
       "medumba": "tù",
       "french": "tête"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/u.mp3"
   },
   {
     "letter": "ʉ",
@@ -87,7 +96,8 @@
       "medumba": "vʉ",
       "french": "mort"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/ʉ.mp3"
   },
   {
     "letter": "b",
@@ -96,7 +106,8 @@
       "medumba": "bô",
       "french": "avec, plus"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/b.mp3"
   },
   {
     "letter": "c",
@@ -105,7 +116,8 @@
       "medumba": "cɔ",
       "french": "histoire"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/c.mp3"
   },
   {
     "letter": "d",
@@ -114,7 +126,8 @@
       "medumba": "dùm",
       "french": "saison sèche"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/d.mp3"
   },
   {
     "letter": "f",
@@ -123,7 +136,18 @@
       "medumba": "fà",
       "french": "accident"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/f.mp3"
+  },
+  {
+    "letter": "g",
+    "type": "consonne",
+    "example": {
+      "medumba": "ngab",
+      "french": "poule"
+    },
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/g.mp3"
   },
   {
     "letter": "gh",
@@ -132,7 +156,8 @@
       "medumba": "ghù",
       "french": "fiançailles"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/gh.mp3"
   },
   {
     "letter": "h",
@@ -141,7 +166,8 @@
       "medumba": "Hòg",
       "french": "nom d'un village"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/h.mp3"
   },
   {
     "letter": "j",
@@ -150,7 +176,8 @@
       "medumba": "Jè",
       "french": "nom d'un village"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/j.mp3"
   },
   {
     "letter": "k",
@@ -159,7 +186,8 @@
       "medumba": "kènà",
       "french": "arachide"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/k.mp3"
   },
   {
     "letter": "l",
@@ -168,7 +196,8 @@
       "medumba": "lò",
       "french": "paresse"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/l.mp3"
   },
   {
     "letter": "m",
@@ -177,7 +206,8 @@
       "medumba": "men",
       "french": "l'enfant"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/m.mp3"
   },
   {
     "letter": "n",
@@ -186,7 +216,8 @@
       "medumba": "nèndò",
       "french": "herbe"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/n.mp3"
   },
   {
     "letter": "ŋ",
@@ -195,7 +226,8 @@
       "medumba": "ŋcbə",
       "french": "coller"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/ŋ.mp3"
   },
   {
     "letter": "ny",
@@ -204,7 +236,8 @@
       "medumba": "nyu",
       "french": "serpent"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/ny.mp3"
   },
   {
     "letter": "s",
@@ -213,7 +246,8 @@
       "medumba": "sè'e",
       "french": "viens"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/s.mp3"
   },
   {
     "letter": "sh",
@@ -222,7 +256,8 @@
       "medumba": "shune",
       "french": "amitié"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/sh.mp3"
   },
   {
     "letter": "t",
@@ -231,7 +266,8 @@
       "medumba": "tɑ",
       "french": "père"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/t.mp3"
   },
   {
     "letter": "ts",
@@ -240,7 +276,8 @@
       "medumba": "tsetòn",
       "french": "grillon"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/ts.mp3"
   },
   {
     "letter": "v",
@@ -249,7 +286,8 @@
       "medumba": "vʉ",
       "french": "mort"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/v.mp3"
   },
   {
     "letter": "w",
@@ -258,7 +296,8 @@
       "medumba": "wud",
       "french": "corps humain"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/w.mp3"
   },
   {
     "letter": "y",
@@ -267,7 +306,8 @@
       "medumba": "yu",
       "french": "pour toi"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/y.mp3"
   },
   {
     "letter": "z",
@@ -276,7 +316,8 @@
       "medumba": "zi",
       "french": "dorsière"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/z.mp3"
   },
   {
     "letter": "'",
@@ -285,6 +326,7 @@
       "medumba": "cua'a",
       "french": "coup de glotte"
     },
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/alphabet/'.mp3"
   }
 ]
