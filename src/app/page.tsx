@@ -10,7 +10,7 @@ export default function Home() {
       {/* Hero */}
       <div className="relative flex-1 flex flex-col items-center justify-center p-6 min-h-screen">
         <Image
-          src="/images/Accueil BG.png"
+          src="/images/accueil-bg.png"
           alt="Grand-mère et enfants apprenant le Medumba"
           fill
           className="object-cover object-center"
