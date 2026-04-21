@@ -12,6 +12,8 @@ const CONTEXT_LABELS: Record<string, string> = {
   remerciement: 'Remerciements',
   présentation: 'Présentations',
   amour: 'Amour',
+  déplacements: 'Déplacements',
+  appréciation: 'Appréciation',
   accouchement: 'Accouchement',
 }
 
