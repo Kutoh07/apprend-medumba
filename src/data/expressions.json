@@ -82,7 +82,7 @@
   {
     "slug": "bum-ngab",
     "medumba": "Bǔm ngab",
-    "french": "L'œuf de la poule",
+    "french": "L'œuf / Les œufs de la poule",
     "hasAudio": true,
     "audioPath": "/audio/expressions/Bum-ngab.mp3"
   },
@@ -90,7 +90,8 @@
     "slug": "bag-labte",
     "medumba": "Bα̌g lὰbtə̌",
     "french": "Nous te remercions",
-    "hasAudio": false,
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/bag-labte.mp3",
     "context": "remerciement"
   },
   {
@@ -115,14 +116,16 @@
     "slug": "co-be-a-nduke",
     "medumba": "Cɔ̀ bə α̂ ndʉ̂kə?",
     "french": "comment ça va ?",
-    "hasAudio": false,
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/co-be-a-nduke.mp3",
     "context": "salutation"
   },
   {
     "slug": "co-fi-tse",
     "medumba": "Cɔ̌ fi tsə",
     "french": "ça va bien",
-    "hasAudio": false,
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/co-fi-tse.mp3",
     "context": "salutation"
   },
   {
@@ -135,13 +138,15 @@
     "slug": "ka-keb-tu-la",
     "medumba": "kα̂ kəb tʉ lα",
     "french": "ne coupe pas cet arbre",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/ka-keb-tu-la.mp3"
   },
   {
     "slug": "ka-ne-kebte-mbwe-am",
     "medumba": "kα̂ nə kəbtə mbwə̀ αm",
     "french": "ne fais plus des allers-retours devant moi",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/ka-ne-kebte-mbwe-am.mp3"
   },
   {
     "slug": "len-se-be-a",
@@ -182,12 +187,6 @@
     "hasAudio": false
   },
   {
-    "slug": "mbum-ngab",
-    "medumba": "Mbǔm ngab",
-    "french": "Les œufs de la poule",
-    "hasAudio": false
-  },
-  {
     "slug": "mbwe-cam",
     "medumba": "Mbwə̂ cαm",
     "french": "Mes chèvres",
@@ -211,20 +210,23 @@
     "slug": "me-fa-fa",
     "medumba": "Mə fǎ' fà'",
     "french": "J'ai travaillé",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/me-fa-fa.mp3"
   },
   {
     "slug": "me-fe-a-ngwani",
     "medumba": "Mə̀ fə α̂ ŋwà'nì",
     "french": "Je reviens de l'école",
     "hasAudio": true,
-    "audioPath": "/audio/expressions/Me-fe-a-nwani.mp3"
+    "audioPath": "/audio/expressions/Me-fe-a-nwani.mp3",
+    "context": "déplacements"
   },
   {
     "slug": "me-ghu-bi",
     "medumba": "Mə ghʉ̌ bi",
     "french": "J'ai un couteau",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Me-ghu-bi.mp3"
   },
   {
     "slug": "me-ghu-bam",
@@ -245,10 +247,11 @@
     "hasAudio": false
   },
   {
-    "slug": "me-ke-be-nsi",
-    "medumba": "Mə̀ kə̂' bə nsi",
+    "slug": "me-ke-be-si",
+    "medumba": "Mə̀ kə̂' bə si",
     "french": "Je ne suis pas là",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Me-ke-be-si.mp3"
   },
   {
     "slug": "me-labte",
@@ -263,31 +266,30 @@
     "medumba": "Mə nɛ̌n ŋwà'nì",
     "french": "Je suis allé à l'école",
     "hasAudio": true,
-    "audioPath": "/audio/expressions/Me-nen-nwani.mp3"
+    "audioPath": "/audio/expressions/Me-nen-nwani.mp3",
+    "context": "déplacements"
   },
   {
     "slug": "me-nen-a-ngwani",
     "medumba": "Mə̀ nɛ̀n α̂ ŋwà'nì",
     "french": "Je vais à l'école",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/me-nen-a-ngwani.mp3",
+    "context": "déplacements"
   },
   {
     "slug": "me-se-ngelang",
     "medumba": "Mə sə̀' ngə̀laŋ",
     "french": "Je suis arrivé à l'heure",
-    "hasAudio": false
+    "hasAudio": false,
+    "context": "déplacements"
   },
   {
     "slug": "me-sen",
     "medumba": "Mə sɛn",
     "french": "Je suis noir",
-    "hasAudio": false
-  },
-  {
-    "slug": "me-sen",
-    "medumba": "Mə sɛn",
-    "french": "Je suis en retard",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Me-sen.mp3"
   },
   {
     "slug": "me-yen-swenyu-wul-am-ved",
@@ -300,13 +302,16 @@
     "medumba": "Mə yǒg nə fə",
     "french": "Je viens de rentrer",
     "hasAudio": true,
-    "audioPath": "/audio/expressions/Me-yog-ne-fe.mp3"
+    "audioPath": "/audio/expressions/Me-yog-ne-fe.mp3",
+    "context": "déplacements"
   },
   {
     "slug": "me-yog-ne-see",
     "medumba": "Mə yǒg nə sə̀'ə",
     "french": "Je viens d'arriver",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Me-yog-ne-see.mp3",
+    "context": "déplacements"
   },
   {
     "slug": "men-bo-ta-ab",
@@ -334,17 +339,20 @@
     "hasAudio": false
   },
   {
-    "slug": "n-nen",
+    "slug": "ne-nene",
     "medumba": "Nǝ̀ nɛ̀nǝ̀",
     "french": "partir",
     "hasAudio": true,
-    "audioPath": "/audio/expressions/Ne-nene.mp3"
+    "audioPath": "/audio/expressions/Ne-nene.mp3",
+    "context": "déplacements"
   },
   {
-    "slug": "n-nen-ngwani",
+    "slug": "ne-nen-ngwani",
     "medumba": "Nǝ̀ nɛ̌n ŋwà'ni",
     "french": "aller à l'école",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Ne-nen-ngwani.mp3",
+    "context": "déplacements"
   },
   {
     "slug": "ngu-nsw-mbwo",
@@ -395,7 +403,9 @@
     "slug": "o-fe-a-ya",
     "medumba": "Ò fə α̂ yα ?",
     "french": "Tu viens d'où?",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/O-fe-a-ya.mp3",
+    "context": "déplacements"
   },
   {
     "slug": "o-ndo-ncob-o-kebte",
@@ -407,13 +417,16 @@
     "slug": "o-nen-a-ya",
     "medumba": "Ò nɛ̀n α̂ yα ?",
     "french": "Tu vas où?",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/O-nen-a-ya.mp3",
+    "context": "déplacements"
   },
   {
     "slug": "o-yog-a",
     "medumba": "O yog ὰ ?",
     "french": "bonsoir",
-    "hasAudio": false,
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/O-yog-a.mp3",
     "context": "salutation"
   },
   {
@@ -428,7 +441,8 @@
     "slug": "o-zi-a",
     "medumba": "O zi ὰ?",
     "french": "Bonjour / Tu as bien dormi ?",
-    "hasAudio": false,
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/O-zi-a.mp3",
     "context": "salutation"
   },
   {
@@ -443,7 +457,8 @@
     "slug": "tu-am-ya-metsili",
     "medumba": "Tu αm ya mətsìli",
     "french": "Ma tête me fait un peu mal",
-    "hasAudio": false
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/Tu-am-ya-metsili.mp3"
   },
   {
     "slug": "tun-bu-u-mfel-am",
@@ -458,5 +473,12 @@
     "hasAudio": true,
     "audioPath": "/audio/expressions/Zi-mebwo.mp3",
     "context": "salutation"
+  },
+  {
+    "slug": "miag-mgwani-medumba",
+    "medumba": "miag ŋwa'ni medumba",
+    "french": "Alphabet medumba",
+    "hasAudio": true,
+    "audioPath": "/audio/expressions/miag-mgwani-medumba.mp3"
   }
 ]
