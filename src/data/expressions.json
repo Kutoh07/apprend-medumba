@@ -266,7 +266,7 @@
     "medumba": "Mə nɛ̌n ŋwà'nì",
     "french": "Je suis allé à l'école",
     "hasAudio": true,
-    "audioPath": "/audio/expressions/Me-nen-nwani.mp3",
+    "audioPath": "/audio/expressions/me-nen-ngwani.mp3",
     "context": "déplacements"
   },
   {
@@ -480,5 +480,33 @@
     "french": "Alphabet medumba",
     "hasAudio": true,
     "audioPath": "/audio/expressions/miag-mgwani-medumba.mp3"
+  },
+  {
+    "slug": "a-bwo",
+    "medumba": "a bwɔ̌",
+    "french": "c'est bien",
+    "hasAudio": false,
+    "context": "appréciation"
+  },
+  {
+    "slug": "a-bwo-ncuate",
+    "medumba": "a bwɔ̌ ncʉα̂tə",
+    "french": "c'est excellent",
+    "hasAudio": false,
+    "context": "appréciation"
+  },
+  {
+    "slug": "a-bwo-ta",
+    "medumba": "a bwɔ̌ tα",
+    "french": "c'est très bien",
+    "hasAudio": false,
+    "context": "appréciation"
+  },
+  {
+    "slug": "a-vu-lag",
+    "medumba": "a vʉ̀ lαg",
+    "french": "c'est correct",
+    "hasAudio": false,
+    "context": "appréciation"
   }
 ]

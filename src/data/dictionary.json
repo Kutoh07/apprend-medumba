@@ -8,38 +8,6 @@
     "category": "pronom personnel"
   },
   {
-    "slug": "a-bwo",
-    "medumba": "a bwɔ̌",
-    "french": "1.c'est bien",
-    "hasAudio": false,
-    "letter": "a",
-    "category": "expression"
-  },
-  {
-    "slug": "a-bwo-ncuate",
-    "medumba": "a bwɔ̌ ncʉα̂tə",
-    "french": "1.c'est excellent",
-    "hasAudio": false,
-    "letter": "a",
-    "category": "expression"
-  },
-  {
-    "slug": "a-bwo-ta",
-    "medumba": "a bwɔ̌ tα",
-    "french": "1.c'est très bien",
-    "hasAudio": false,
-    "letter": "a",
-    "category": "expression"
-  },
-  {
-    "slug": "a-vu-lag",
-    "medumba": "a vʉ̀ lαg",
-    "french": "1.c'est correct",
-    "hasAudio": false,
-    "letter": "a",
-    "category": "expression"
-  },
-  {
     "slug": "ba",
     "medumba": "ba",
     "french": "1.détourner",
